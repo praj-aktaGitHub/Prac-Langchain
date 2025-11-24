@@ -1,0 +1,6 @@
+bs4
+sentence-transformers
+langchain-community
+chromadb
+faiss-cpu
+pypdf
