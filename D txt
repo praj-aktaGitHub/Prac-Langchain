@@ -19,3 +19,12 @@ Built a tool that reads raw log files, extracts key events using regex, and grou
 Used LLAMA models (via OpenRouter) to generate simple insights and summaries to help understand issues faster.
 
 Combined Python data processing with basic charts/plots and connected everything to a small interactive frontend for easier viewing.
+
+
+Cleaned and transformed user records, then calculated Recency, Frequency, and Monetary (RFM) values for each user.
+
+Created clear segment labels such as Loyal, Potential, At Risk, and Lost based on RFM scores.
+
+Visualized the data using distribution plots, boxplots, and short segment summaries to identify patterns.
+
+Trained a Random Forest classifier on RFM features to predict user segments and evaluated it using a classification report and confusion matrix.
