@@ -38,3 +38,10 @@ Defined ROIs for seal-placement, tracked hand positions continuously, and applie
 Triggered on-screen warnings whenever a wrong movement or sequence was detected using lightweight edge-processing.
 
 Developed a PyQt5 interface showing the live camera feed, cycle progress, detected errors, and final success status.
+
+
+Built a secure locker access system using face recognition (Face-Recognition library) by extracting and matching facial encodings.
+
+Added a dynamic OTP verification step to confirm user identity before granting access.
+
+Implemented email alerts and CSV-based logs to record and track access events.
