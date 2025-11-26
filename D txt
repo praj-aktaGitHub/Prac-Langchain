@@ -1,0 +1,5 @@
+Built a chatbot that answers user queries using company FAQs and technical manuals. Used RAG with FAISS to search and fetch relevant information.
+
+Created a basic multi-agent flow for classifying user intent and passing complex queries to a human agent. Added simple ticket creation and conversation history features.
+
+Developed the frontend and backend for a real-time chat interface used by both users and IT agents for live support.
