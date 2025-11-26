@@ -28,3 +28,13 @@ Created clear segment labels such as Loyal, Potential, At Risk, and Lost based o
 Visualized the data using distribution plots, boxplots, and short segment summaries to identify patterns.
 
 Trained a Random Forest classifier on RFM features to predict user segments and evaluated it using a classification report and confusion matrix.
+
+
+
+Built a real-time video analytics system using Mediapipe to monitor operator actions and ensure each step is performed in the correct order.
+
+Defined ROIs for seal-placement, tracked hand positions continuously, and applied rule-based checks to validate every step.
+
+Triggered on-screen warnings whenever a wrong movement or sequence was detected using lightweight edge-processing.
+
+Developed a PyQt5 interface showing the live camera feed, cycle progress, detected errors, and final success status.
