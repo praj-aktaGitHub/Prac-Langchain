@@ -3,3 +3,12 @@ Built a chatbot that answers user queries using company FAQs and technical manua
 Created a basic multi-agent flow for classifying user intent and passing complex queries to a human agent. Added simple ticket creation and conversation history features.
 
 Developed the frontend and backend for a real-time chat interface used by both users and IT agents for live support.
+
+
+Built a tool that helps brands find suitable creators by using embeddings and FAISS to compare profiles and rank the best matches.
+
+Created APIs for creator enrollment, embedding generation, similarity ranking, and brief refinement.
+
+Added an automated email flow using HTML templates and SMTP for outreach.
+
+Set up SQLite + FAISS storage and implemented a clean pipeline to store vectors and generate LLM-based scores and short explanations.
